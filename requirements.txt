@@ -3,4 +3,5 @@ jupyterlab
 matplotlib
 openpyxl
 seaborn
+statsmodels
 pendulum
